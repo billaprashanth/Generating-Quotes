@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+.startup{
+    border-radius: 12px;
+}
+.btn{
+    color: white;
+    border: none;
+}
+#author{
+    font-style: italic;
+}
